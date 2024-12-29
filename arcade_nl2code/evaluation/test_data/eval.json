@@ -1,0 +1,9 @@
+{
+  "accuracy@1": 0.9924357034795764,
+  "episode_accuracy@1": 0.9714285714285714,
+  "num_eval_episodes": 70,
+  "num_eval_examples": 661,
+  "num_total_episodes": 70,
+  "num_total_examples": 661,
+  "time": 2121.6538565158844
+}
