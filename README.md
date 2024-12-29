@@ -64,5 +64,7 @@ enable stronger model performance on data science tasks in a stateful notebook e
   Generated prompt datasets for the different experiments.
 
 - **arcade_nl2code**  
-  Evaluation code and utilities for building the initial dataset from the original ARCADE paper. Please refer to the [ARCADE](https://github.com/google-research/arcade-nl2code) repository for instructions on building the original dataset. \
+  Evaluation code and utilities for building the initial dataset from the original ARCADE paper.\
+  Please refer to the [ARCADE](https://github.com/google-research/arcade-nl2code) repository for instructions on building the original dataset. \
+  \
   [Natural Language to Code Generation in Interactive Data Science Notebooks](https://aclanthology.org/2023.acl-long.9) (Yin et al., ACL 2023)
