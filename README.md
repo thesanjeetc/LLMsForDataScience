@@ -15,6 +15,9 @@ and evaluate our prompting methods with the Llama 3 family of models. Our experi
 the importance designing domain-specific prompting that takes into context all available information to
 enable stronger model performance on data science tasks in a stateful notebook environment.
 
+![image](https://github.com/user-attachments/assets/f3d67234-8b83-4b84-8d82-603785d926e4)
+
+
 ### **Project Structure**
 
 #### **Source Code**
