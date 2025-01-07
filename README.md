@@ -2,8 +2,7 @@
 
 ### **Abstract**
 
-LLMs have shown impressive capabilities across a variety of tasks, such as semantic understanding, rea-
-soning capabilities, and code synthesis. This has the potential to assist data scientists in data preparation
+LLMs have shown impressive capabilities across a variety of tasks, such as semantic understanding, reasoning capabilities, and code synthesis. This has the potential to assist data scientists in data preparation
 and exploration tasks. Computational notebooks have become popular tools for data scientists to explore,
 analyse and prepare data. Notebooks provide a richer contexual environment in comparison to single-step
 code generation tasks and benchmarks due to its live execution state and multi-step nature.
